@@ -15,6 +15,11 @@ It’s my way of turning scattered thoughts into organized creativity.
 ## Tools & Technologies  
 n8n · OpenRouter · OpenAI API · Notion API · Telegram Bot API · Docker  
 
+## Custom Code Node
+The workflow includes a JavaScript code node used to parse the AI response and format the data before sending it to Notion.  
+You can find the script [here](./code-node.js).
+
+
 ## Screenshots  
 ### 🔸 n8n Workflow
 ![n8n Workflow](assets/workflow.png)
