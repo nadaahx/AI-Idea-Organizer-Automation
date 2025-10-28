@@ -1,4 +1,4 @@
-#🌱 AI Idea Organizer Automation (n8n + Telegram + Notion + OpenAI)
+# 🌱 AI Idea Organizer Automation (n8n + Telegram + Notion + OpenAI)
 
 ## Overview  
 This project was born out of a personal struggle — I often get random ideas at odd times and end up losing them.  
